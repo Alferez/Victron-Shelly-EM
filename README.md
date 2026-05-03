@@ -455,6 +455,7 @@ Si encuentras bugs o mejoras, compártelas con la comunidad.
 
 ---
 
-**Versión:** 2.0  
-**Compatibilidad:** Venus OS v2.80+  
+**Versión:** 2.0
+**Compatibilidad:** Venus OS v2.80+
 **Dispositivos soportados:** Shelly EM, Shelly 3EM
+**IA Ayuda:** Claude
