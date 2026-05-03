@@ -2,6 +2,12 @@
 
 Integración universal de **Shelly EM** (monofásico) y **Shelly 3EM** (trifásico) como medidores de energía en Victron Venus OS mediante D-Bus.
 
+## Responsabiliad
+Este complementeo para Venus OS no está soportado oficialemente ni por Victron, ni por Shelly.
+Úsalo bajo tu responsabilidad. Sólo tu eres responsable de los efectos que pueda tener en tu instalación y el comportamiento de la misma.
+Si no sabes qué estás haciendo o necesitas una integración Oficial, este complemento no es el recomendado para ti.
+
+
 ## 🎯 Características
 
 ### Shelly EM (Monofásico)
